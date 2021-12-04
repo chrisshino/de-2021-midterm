@@ -5,3 +5,5 @@ The project uses multiple technologies and AWS services to create an end to end 
 sends it to spark for transformation and airflows the output to redshift and superset for warehousing + visualizations.
 
 # Workflow diagram
+
+![Blank diagram (2)](https://user-images.githubusercontent.com/47957189/144717809-5a444414-12e6-4ef6-a5b8-d33087382edc.png)
